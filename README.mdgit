@@ -1,0 +1,2 @@
+"# Shop"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:xwk1993/Shop.gitgit push -u origin master
+"# Shop"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/xwk1993/Shop.gitgit push -u origin master
